@@ -9,10 +9,6 @@ any later version).
 If you are looking for general information about the project, check our website:
 http://sourceforge.net/projects/libdxfrw
 
-
-WARNING: This project is a fork to add a CMakeLists.txt for some of our downstream project's in LibreCAD to make compiling and following this project easier.
-==========
-
 Building and installing the library
 ==========
 ```
